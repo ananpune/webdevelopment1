@@ -1,0 +1,30 @@
+	    
+SALADUN - brute
+	    The Saladun have lived amongst themselves for years with little interaction with the other factions apart from
+            needed trades for goods and services. The Saladun base your worth on your brute strength and savagery, they are the
+            ultimate war machines, able to perservere through any conditions to achieve victory, while taking the bloodiest part
+            of course. Their life of extreme hardships is based on the western portion of the Rockies where they reside in mountain tops
+            with little access to the outside world. They are weapon and war experts, and do not hesitate to take the life of an enemy or comrade
+            for gain. This is what the Escaped had wanted, this is what they have caused. They watch the bloodshed as though it were a game, but to
+            for the Saladun, the blood shed can lead them to freedom, to a place where they can get revenge on the savages that created this senseless
+            war. "We weren't meant to survive, this war is insanity. Let us show them how insane we can be, let us rip the flesh from their faces. Slaughter
+            whoever is in your way, friend or foe" - Saladun Soldier.
+
+ Knephas-druid
+        <p> The Knephas are another faction who relatively keep to themselves with the exception of meeting with the nobles of the Degi. The Knephas understand
+            the earth at a degree that others don't. Years of studying the land and soil has allowed them to be able to grow plants and livestock, be able to create medicines,
+            remedies and advance their abilities to discover new herbs and plants which provide this group with various physical enhancements for a limited amount of time. These
+            elixirs are the reason they have been able to fend off attacks from the Saladun for centuries. However with each death comes a heavy price, while the elixirs allow for
+            everlasting youth and life, the Knephas are a faction comprised of only women sent from the Escaped, thus reproducing their powers and factions numbers is impossible. The
+            Knephas wish to be re-united with the rest of  their clan, while being able to interact with other factions again, create families and live a life away from war. However they too
+            have a savage side.
+Degi - engineer
+	The Degi are a faction of supreme intellect and technologic advancements. They have spent their time engineering works to make their lives easier and this engineering
+            has allowed them to become masters of tasking and defences. Their warlords, although not as strong as the Saladun and not having the elixirs of the Knephas, are able to hold
+            off attacks and war with their ultimate defences. Dive into the gizmos and gadgets and be the ultimate creator with the Degi! Ultimately only relying on outsiders for good in
+            exchange for their services.
+Eica - the Forgotten
+The Eica are a group of the castaways from the other factions. They have escaped their factions cruel ways to come together as a group who have feelings and care for each other.
+            As they are made up of individuals from other factions they are experts of nothing but trained in all general ways of the factions. These are your people, impoverished and castaway
+            by everyone else. But this competition presents an opportunity, and chance to escape, a chance for the castaways for best those who have forgotten them. Help the Forgotten become
+            the Escaped.
